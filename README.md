@@ -1,11 +1,33 @@
-👋 Hey, I’m @Malay-exe, your friendly neighborhood coder!<br/>
-👀 I’m interested in Python development, AI, and web technologies.<br/>
-🌱 I’m currently learning advanced machine learning techniques and backend development.<br/>
-💞️ I’m looking to collaborate on open-source projects and innovative AI applications.<br/>
-📚 When I’m coding, you’ll find me experimenting with automation or optimizing workflows for fun.<br/>
-⚡ Fun fact: I used to challenge myself to complete projects before my laptop battery ran out!<br/>
-😎 Bonus fun: If coding were an Olympic sport, I’d be that guy who forgets to submit the code on time but still somehow wins gold.
-<!---
-Malay-exe/Malay-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 🎉 Hello, World! I’m @Malay-exe
+🌟 Your friendly neighborhood coder swinging through lines of code like a pro! 🌟
+
+# 💻 Passion
+🐍 Python wizardry<br/>
+🤖 AI explorations<br/>
+🌐 Crafting web wonders<br/>
+
+# 🚀 What’s Cooking?
+🍴 Diving into advanced machine learning<br/>
+🔧 Mastering the art of backend development
+
+# 🤝 Collaboration Goals
+🌍 Building open-source marvels<br/>
+✨ Creating innovative AI solutions<br/>
+💡 Turning ideas into reality<br/>
+
+# ✨ My Coding Vibe
+⚙️ Forever tinkering with automation<br/>
+🔄 Always optimizing workflows—because why not?
+
+# ⚡ Fun Fact
+🔋 I used to race my laptop battery to finish projects.<br/>
+(Plot twist: My battery didn’t always win. 😅)
+
+# 🥇 Bonus Fun
+🏅 If coding were an Olympic sport:
+
+-> All-nighters ✅<br/>
+-> Forgetting to submit ✅<br/>
+-> Still winning gold ✅<br/>
+# 🌟 Let’s Connect!
+🎨 Let’s create something extraordinary together!
