@@ -1,10 +1,10 @@
 # 🎉 Hello, World! I’m @Malay-exe
-🌟 Your friendly neighborhood coder swinging through lines of code like a pro! 🌟
+🌟  A full-stack Python developer, your friendly neighborhood coder, swinging through lines of code like a pro! 🌟
 
 # 💻 Passion
 🐍 Python wizardry<br/>
 🤖 AI explorations<br/>
-🌐 Crafting web wonders<br/>
+🌐 Crafting web wonders
 
 # 🚀 What’s Cooking?
 🍴 Diving into advanced machine learning<br/>
@@ -13,7 +13,7 @@
 # 🤝 Collaboration Goals
 🌍 Building open-source marvels<br/>
 ✨ Creating innovative AI solutions<br/>
-💡 Turning ideas into reality<br/>
+💡 Turning ideas into reality
 
 # ✨ My Coding Vibe
 ⚙️ Forever tinkering with automation<br/>
@@ -28,6 +28,6 @@
 
 -> All-nighters ✅<br/>
 -> Forgetting to submit ✅<br/>
--> Still winning gold ✅<br/>
+-> Still winning gold ✅
 # 🌟 Let’s Connect!
 🎨 Let’s create something extraordinary together!
