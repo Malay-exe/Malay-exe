@@ -1,6 +1,6 @@
-# 🎉 Hello, World! I’m @Malay-exe yash kacha
+# 🎉 Hello, World! I’m @Malay-exe
 🌟  A full-stack Python developer, your friendly neighborhood coder, swinging through lines of code like a pro! 🌟
-from yash
+
 # 💻 Passion
 🐍 Python wizardry<br/>
 🤖 AI explorations<br/>
